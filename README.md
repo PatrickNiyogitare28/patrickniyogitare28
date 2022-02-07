@@ -1,6 +1,4 @@
-### Hi there 👋
-
-My name is Patrick Niyogitare, and I enjoy modern web develpment & building Mobile Applications using Flutter.
+Hey there 👋, My name is Patrick Niyogitare, and I enjoy modern web develpment & building Mobile Applications using Flutter.
 
  ⚡ Fun fact: I love acrobatics & tumblings 
  
