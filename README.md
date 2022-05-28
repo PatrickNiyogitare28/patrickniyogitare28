@@ -2,7 +2,7 @@ Hey there 👋, My name is Patrick Niyogitare, and I enjoy modern web develpment
 
  ⚡ Fun fact: I love acrobatics & tumblings 
  
- ⚡ Blog: [codeark.codes](https://codeark-com.vercel.app/)
+ ⚡ Blog: [patrickniyo.com](https://patrickniyo.com)
  
  ⚡ Linkedin: [Patrick Niyogitare](https://www.linkedin.com/in/patrick-niyogitare-76b469184/)
  
