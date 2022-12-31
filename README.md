@@ -1,6 +1,6 @@
-Hey there 👋, My name is Patrick Niyogitare, and I enjoy modern web develpment & building Mobile Applications using Flutter.
+Hey there 👋, My name is Patrick Niyogitare. Welcome to the garden of my work; Besides engineering I am a gymnastics person.
 
- ⚡ Fun fact: I love acrobatics & tumblings 
+ ⚡ Fun fact: I first sleep before tackling something crucial.
  
  ⚡ Blog: [patrickniyo.com](https://patrickniyo.com)
  
@@ -8,4 +8,5 @@ Hey there 👋, My name is Patrick Niyogitare, and I enjoy modern web develpment
  
  ⚡ Twitter: [@niyogitare](https://twitter.com/niyogitare)
 
+Hit me an email we build something.
 
