@@ -1,6 +1,6 @@
 Hey there 👋, My name is Patrick Niyogitare. Welcome to the garden of my work; Besides engineering I am a gymnastics person.
 
- ⚡ Fun fact: I need to take enough sleep before tackling down a tough task 😃..
+ ⚡ Fun fact: I need to take enough sleep before tackling down a tough task 😃.
  
  ⚡ Blog: [patrickniyo.com](https://patrickniyo.com)
  
