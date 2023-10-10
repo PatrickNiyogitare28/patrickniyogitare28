@@ -9,4 +9,4 @@ Hey there 👋, My name is Patrick Niyogitare. Welcome to the garden of my work;
  ⚡ Twitter: [@niyogitare](https://twitter.com/niyogitare)
 
 Hit me an email we build something.
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=patrickniyogitare28)](https://git.io/streak-stats)
