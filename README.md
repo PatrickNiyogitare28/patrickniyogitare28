@@ -8,5 +8,5 @@ Hey there 👋, My name is Patrick Niyogitare. Welcome to the garden of my work;
  
  ⚡ Twitter: [@niyogitare](https://twitter.com/niyogitare)
 
-Hit me an email we build something.
+Hit me an email we build something `patrickniyogitare28@gmail.com` .
 
