@@ -1,12 +1,13 @@
-Hey there 👋, My name is Patrick Niyogitare. Welcome to the garden of my work; Besides engineering I am a gymnastics person.
+Hey there 👋, I'm Patrick Niyogitare. Welcome to my creative garden 🌻; Beyond engineering, I'm passionate about gospel music 🎶 and playing the guitar 🎸.
 
- ⚡ Fun fact: I need to take enough sleep before tackling down a tough task 😃.
- 
- ⚡ Blog: [patrickniyo.com](https://patrickniyo.com)
- 
- ⚡ Linkedin: [Patrick Niyogitare](https://www.linkedin.com/in/patrick-niyogitare-76b469184/)
- 
- ⚡ Twitter: [@niyogitare](https://twitter.com/niyogitare)
+ 💪 **Fun fact**: I need to get enough sleep 🛏️ before tackling a tough task.
 
-Hit me an email we build something `patrickniyogitare28@gmail.com` .
+🌐 **Portfolio**: [patrickniyo.com](https://patrickniyo.com) 
 
+✍️ **Blog**: [blog.patrickniyo.com](https://blog.patrickniyo.com) 
+
+💼 **LinkedIn**: [Patrick Niyogitare](https://www.linkedin.com/in/patrick-niyogitare-76b469184/) 
+
+🐦 **Twitter**: [@niyogitare](https://twitter.com/niyogitare) 
+
+Feel free to email me, and let's build something together ✉️: `patrickniyogitare28@gmail.com`.
