@@ -6,7 +6,7 @@ Hey there 👋, I'm Patrick Niyogitare. Welcome to my creative garden 🌻; Beyo
 
 ✍️ **Blog**: [blog.patrickniyo.com](https://blog.patrickniyo.com) 
 
-💼 **LinkedIn**: [Patrick Niyogitare](https://www.linkedin.com/in/patrick-niyogitare-76b469184/) 
+💼 **LinkedIn**: [Patrick Niyogitare](https://www.linkedin.com/in/patrickniyo) 
 
 🐦 **Twitter**: [@niyogitare](https://twitter.com/niyogitare) 
 
